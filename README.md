@@ -280,3 +280,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
  [15]: https://github.com/smdahlen/vagrant-hostmanager
  [16]: http://box.scotch.io
  [17]: http://scotch.io/bar-talk/introducing-scotch-box-a-vagrant-lamp-stack-that-just-works
+
+ improved, sampai sini
+ [18]: https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved#changing-public-to-public_html
